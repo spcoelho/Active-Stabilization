@@ -28,8 +28,9 @@ To run the simulation software:
 
 1. Download and unzip the folder
 2. Open the software (Simulation and Hardware Test.exe)
-  a. Ensure the DLL's remain in the path structure
+Ensure the DLL's remain in the path structure
 3. Select the approriate tab and run
+
   
   
  
