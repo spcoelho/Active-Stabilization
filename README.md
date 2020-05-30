@@ -3,10 +3,6 @@ LabVIEW code
 
 The LabVIEW code here was developed for active stabilization
 
-Reference: 
-
-Coelho et al, ‘Ultraprecise single-molecule localization microscopy enables in situ distance measurements in intact cells’, Science Advances, 2020
-
 To run the Simulation and Hardware software:
 
 Necessary hardware:
