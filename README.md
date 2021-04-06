@@ -1,7 +1,7 @@
 # Active-Stabilization
 LabVIEW code 
 
-The LabVIEW code here was developed for active stabilization
+The LabVIEW code here was developed for active stabilization/ 3D Focus locking
 
 To run the Simulation and Hardware software:
 
