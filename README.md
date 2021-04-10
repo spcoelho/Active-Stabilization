@@ -29,7 +29,7 @@ Ensure the DLL's remain in the path structure
 
 
 To install all necessary hardware, full software and troubleshooting:
-Follow steps found at Coelho et al Nature Protocols 2021 (https://www.nature.com/articles/s41596-020-00426-9#Sec42)
+Follow steps found at Coelho et al Nature Protocols 2021 (https://www.nature.com/articles/s41596-020-00426-9)
   
  
 
