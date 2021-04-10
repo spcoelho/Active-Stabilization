@@ -27,7 +27,9 @@ To run the simulation software:
 Ensure the DLL's remain in the path structure
 3. Select the approriate tab and run
 
-  
+
+To install all necessary hardware, full software and troubleshooting:
+Follow steps found at Coelho et al Nature Protocols 2021 (https://www.nature.com/articles/s41596-020-00426-9#Sec42)
   
  
 
