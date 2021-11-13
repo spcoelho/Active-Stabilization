@@ -1,0 +1,14 @@
+Use Camera ROI,false
+ROI Length (2^n),128
+Num Z Slices (Odd Number),121
+Delta Z Slices (um),0.005
+Images Per Z Slice,25
+Drift Correct Calibration,false
+XY Tranpose Stage,true
+Invert X axis,false
+Invert Y axis,false
+Subpixel ROI,16
+Images Per Move,8
+XY Dampening Factor,1
+Z Dampening Factor,0.25
+Measure Accuracy,true
