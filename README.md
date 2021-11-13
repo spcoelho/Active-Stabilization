@@ -48,3 +48,5 @@ Using the ImageJ panel draw a box over the fiducial that you want to track then 
 Click calibrate to generate the calibration zstack. The correlation plot that is made at the end should look like a smooth inverted parabola. If it is jagged you probably need to increase the delta zslices in the options and rerun calibrate.
 Click lock and then it should hold the position.
 When you're finished stop live to stop focus locking. It should give you an option to save a csv that plots the XYZ position of the stage at each move point as well as the measured position of Fiducial 1 and Fiducial 2.
+
+Contact: s.pereiracoelho@unsw.edu.au
