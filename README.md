@@ -32,7 +32,7 @@ Ensure the DLL's remain in the path structure
 To install all necessary hardware, full software and troubleshooting:
 Follow steps found at Coelho et al Nature Protocols 2021 (https://www.nature.com/articles/s41596-020-00426-9)
   
-# ImageJ / Micromanger plugin
+# ImageJ / Micromanger plugin (developed by James Walsh, james.walsh@unsw.edu.au)
 
 This here is a CPU based approach to perform focusing locking.
 To install here are two files -  a Jar and the parameters file. 
